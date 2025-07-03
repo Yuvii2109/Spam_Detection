@@ -8,7 +8,7 @@ import string
 import os
 
 # Force NLTK to use local data in deployed environment
-nltk.data.path.insert(0, "/mount/src/spam_detection/nltk_data")
+nltk.data.path.insert(0, os.path.join(os.path.dirname(__file__), "nltk_data"))
 
 #── 1) Download NLTK data (only needs to happen once)
 
