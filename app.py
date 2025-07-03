@@ -5,10 +5,12 @@ from nltk.corpus import stopwords
 from nltk.stem.porter import PorterStemmer
 from nltk.tokenize import word_tokenize
 import string
+import os
+
+# Tell nltk to use bundled data
+nltk.data.path.append(os.path.join(os.path.dirname(__file__), "nltk_data"))
 
 #── 1) Download NLTK data (only needs to happen once)
-nltk.download('punkt')
-nltk.download('stopwords')
 
 #── 2) Prepare text‐processing tools
 ps = PorterStemmer()

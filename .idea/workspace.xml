@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5becccc9-f8b1-437a-802e-1fef183b6dea" name="Changes" comment="Email/SMS Spam Detector" />
+    <list default="true" id="5becccc9-f8b1-437a-802e-1fef183b6dea" name="Changes" comment="Email/SMS Spam Detector">
+      <change afterPath="$PROJECT_DIR$/nltk_downloader.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,7 +85,7 @@
       <workItem from="1751565135609" duration="2425000" />
       <workItem from="1751571467245" duration="2258000" />
       <workItem from="1751574726541" duration="597000" />
-      <workItem from="1751575539668" duration="302000" />
+      <workItem from="1751575539668" duration="721000" />
     </task>
     <task id="LOCAL-00001" summary="Email/SMS Spam Detector">
       <option name="closed" value="true" />
@@ -109,7 +111,15 @@
       <option name="project" value="LOCAL" />
       <updated>1751575843320</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Email/SMS Spam Detector">
+      <option name="closed" value="true" />
+      <created>1751576122533</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1751576122533</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
