@@ -9,6 +9,7 @@ import os
 
 # Tell nltk to use bundled data
 nltk.data.path.append(os.path.join(os.path.dirname(__file__), "nltk_data"))
+st.write("NLTK paths:", nltk.data.path)
 
 #── 1) Download NLTK data (only needs to happen once)
 
