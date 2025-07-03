@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5becccc9-f8b1-437a-802e-1fef183b6dea" name="Changes" comment="Email/SMS Spam Detector">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5becccc9-f8b1-437a-802e-1fef183b6dea" name="Changes" comment="Email/SMS Spam Detector" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,18 +20,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Yuvii2109"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Yuvii2109&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Yuvii2109/Spam_Detection",
-    "accountId": "d2a3b7a3-2fd1-4f88-914b-89521ad729a4"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Yuvii2109/Spam_Detection&quot;,
+    &quot;accountId&quot;: &quot;d2a3b7a3-2fd1-4f88-914b-89521ad729a4&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -85,6 +83,7 @@
       <workItem from="1751565135609" duration="2425000" />
       <workItem from="1751571467245" duration="2258000" />
       <workItem from="1751574726541" duration="597000" />
+      <workItem from="1751575539668" duration="302000" />
     </task>
     <task id="LOCAL-00001" summary="Email/SMS Spam Detector">
       <option name="closed" value="true" />
@@ -94,7 +93,23 @@
       <option name="project" value="LOCAL" />
       <updated>1751573339401</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Email/SMS Spam Detector">
+      <option name="closed" value="true" />
+      <created>1751575579634</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1751575579634</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Email/SMS Spam Detector">
+      <option name="closed" value="true" />
+      <created>1751575843320</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1751575843320</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
