@@ -7,9 +7,8 @@ from nltk.tokenize import word_tokenize
 import string
 import os
 
-# Tell nltk to use bundled data
-nltk.data.path.append(os.path.join(os.path.dirname(__file__), "nltk_data"))
-st.write("NLTK paths:", nltk.data.path)
+# Force NLTK to use local data in deployed environment
+nltk.data.path.insert(0, "/mount/src/spam_detection/nltk_data")
 
 #── 1) Download NLTK data (only needs to happen once)
 
